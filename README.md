@@ -1,6 +1,6 @@
-# Lab-9 - Beauty is Only Skin Deep
+# Lab-9 - Vote for Me
 
-For this lab, you will create a two-page website using some of the new principles that were explored in the ZY-text Chapter 5. This website should advertise some fictional business. Try 
+For this lab, you will show off your mad CSS skills. Included in this repository are a couple of HTML files which you may edit as you see fit. The 
 
 ## Tools covered in Chapter 5
 
