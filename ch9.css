@@ -1,0 +1,15 @@
+h1			{color: red; text-align: center}
+
+h2			{color: red; text-align: center}
+
+div.pic		{position: relative; left: -200px; top: 50px; float: right}
+
+div			 {width: 75px;height: 75px;position: absolute;}
+
+#early {background-color: red; left: 10px; top: 10px;}
+
+#often {background-color: blue;color: white;left: 30px;top: 30px;}
+
+#kris {background-color: red;left: 50px;top: 50px;}
+
+li.navlist	{display: inline; list-style-type: none;}
